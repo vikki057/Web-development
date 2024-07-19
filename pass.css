@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+#password{
+    margin-top: 300px;
+    margin-left: 450px;
+    height: 50px;
+    width: 400px;
+}
+
+#clickme{
+    color: gray;
+}
