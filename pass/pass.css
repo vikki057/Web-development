@@ -1,0 +1,23 @@
+#show{
+    height: 15px;
+    width: 15px;
+}
+
+body{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#password{
+    border: none;
+    outline: none;
+    width: 300px;
+    height: 10px;
+}
+
+#code{
+    border: 1px solid black;
+}
