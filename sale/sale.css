@@ -1,0 +1,37 @@
+*{
+    background-color: orange;
+}
+
+#sale{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#phone{
+    padding-left: 300px;
+}
+
+
+#text{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#countdown{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 100px;
+}
+
+#price{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
